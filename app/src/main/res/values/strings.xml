@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mi calculadora XML</string>
+    <string name="num1suma">Ingrese el primer número</string>
+    <string name="num2suma">Ingrese el segundo</string>
+    <string name="txtButton">Calcular</string>
+    <string name="txtResultado">Resultado:</string>
+</resources>
