@@ -1,7 +1,7 @@
 # Calculadora en Java con Layout XML
 
 Este mini proyecto es una aplicación de una calculadora de sumar desarrollada con Java y Layout XML.
-Para su desarrollo se han implementado dos campos de texto para dos numeros, un botón que realize la suma de los dos numeros y el restado o mensaje de error por pantalla.
+Para su desarrollo se han implementado dos campos de texto para dos numeros, un botón que realize la suma de los dos numeros y muestra el resultado o mensaje de error por pantalla.
 
 ## Requisitos
 - **Java**: Versión 8 o superior.
